@@ -704,6 +704,7 @@
 ||retargeting.vistaprint.com^
 ||rfk.biglots.com^
 ||roblox.com/report
+||roblox.com/user-sponsorship/*
 ||roblox.com/www/e.png?
 ||roblox.com^*/_/1px.gif
 ||rps-p2.rockpapershotgun.com^
